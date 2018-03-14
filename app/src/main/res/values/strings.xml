@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exercicio 2</string>
+    <string name="action_adicionar">Adicionar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="autor">Pedro Henrique dos Santos Lima</string>
+    <string name="desenvolvedor">Desenvolvidor</string>
+
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="foto">Foto</string>
+    <string name="site_pessoal">Site Pessoal</string>
+    <string name="idade">Idade</string>
+    <string name="nota">Nota</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="voltar">Voltar</string>
+    <string name="txt_nota">Nota:</string>
+    <string name="txt_idade">Idade:</string>
+    <string name="menu">Menu</string>
+    <string name="visualizar">Visualizar</string>
+    <string name="ligar_aluno">Ligar para o aluno</string>
+    <string name="sms_aluno">Mandar SMS para o aluno</string>
+    <string name="localizacao_mapa">Ver localização no mapa</string>
+    <string name="site_aluno">Acessar site do aluno</string>
+</resources>
